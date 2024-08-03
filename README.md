@@ -1,7 +1,7 @@
 # First Repository in **_ValArX Projects_**
 ## **Founding members**
 - **[ValCatenza](https://github.com/ValCatenza)**
-- (place for Aris)
+- **[drink-your-water](https://github.com/drink-your-water)**
 - **[Jxst-Felix](https://github.com/Jxst-Felix)**
 
 # To Do
