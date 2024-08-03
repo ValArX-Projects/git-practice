@@ -1,6 +1,6 @@
 # First Repository in **_ValArX Projects_**
 ## **Founding members**
-- (place for Val)
+- **[ValCatenza](https://github.com/ValCatenza)**
 - (place for Aris)
 - **[Jxst-Felix](https://github.com/Jxst-Felix)**
 
