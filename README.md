@@ -10,7 +10,7 @@ This is the first step for creating projects in this organization is to practice
 
 ## Commands and Concepts for Git
 - `git add [file or folder]`
-- `git commit -m [message]`
+- `git commit -m ["message"]`
 - `git push origin [branch name]`
 - `git pull`
 - `git clone [repository link]`
