@@ -6,7 +6,7 @@
 
 # To Do
 ## Git practice
-This is the first step for creating projects in this organization is to practice **Git** and **GitHub**.
+This is the first step for creating projects in this organization is to practice **Git** and **GitHub**. \
 **When in doubt always restart**
 
 ## Commands and Concepts for Git
